@@ -1,6 +1,8 @@
 
 ## Creating Customer Segments
 
+In this project I will use unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
